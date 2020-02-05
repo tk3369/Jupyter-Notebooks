@@ -1,0 +1,1 @@
+mv qrpm_funcs.py ${NB_PYTHON_PREFIX}/lib/python*/site-packages/
